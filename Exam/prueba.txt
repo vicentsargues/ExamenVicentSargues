@@ -1,0 +1,16 @@
+hilos
+constantes
+variables
+proceso
+planificador
+hardware
+multiproceso
+multitarea
+nucleos
+fork
+ejecutable
+windows
+pausar
+prioridades
+servicios
+
